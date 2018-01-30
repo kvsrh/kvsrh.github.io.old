@@ -19,7 +19,7 @@ permalink: /reading-list/
 1. The Wright Brothers - David McCullough
 2. Economix: How and Why Our Economy Works (and Doesn't Work) in Words and Pictures - Michael Goodwin
 3. The Rosie Project - Graeme Simsion
-4. The Doors of Perception and Heaven and Hell - Alodus Huxley
+4. The Doors of Perception: Heaven and Hell - Alodus Huxley
 5. The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory - Brain Greene
 6. Introduction to Graph Theory - Richard J. Trudeau (Incomplete)
 7. Logicomix: An epic search for truth - Apostolos Doxiadis

@@ -19,13 +19,12 @@ permalink: /reading-list/
 1. The Wright Brothers - David McCullough
 2. Economix: How and Why Our Economy Works (and Doesn't Work) in Words and Pictures - Michael Goodwin
 3. The Rosie Project - Graeme Simsion
-4. The Doors of Perception: Heaven and Hell - Alodus Huxley
-5. The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory - Brain Greene
-6. Introduction to Graph Theory - Richard J. Trudeau (Incomplete)
-7. Logicomix: An epic search for truth - Apostolos Doxiadis
-8. Math Girls - Hiroshi Yuki
-9. The Omnivore's Dilemma: A Natural History of Four Meals - Michael Pollan
-10. Love Story - Eric Segal
+4. The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory - Brain Greene
+5. Introduction to Graph Theory - Richard J. Trudeau (Incomplete)
+6. Logicomix: An epic search for truth - Apostolos Doxiadis
+7. Math Girls - Hiroshi Yuki
+8. The Omnivore's Dilemma: A Natural History of Four Meals - Michael Pollan
+9. Love Story - Eric Segal
 
 ### 2016
 

@@ -12,6 +12,24 @@ permalink: /reading-list/
 2. The God of Small Things - Arundhati Roy
 3. A Southern Music: The Karnatik Story - T.M. Krishna
 4. The Etymologican: A Circular Stroll Through the Hidden Connections of the English Language - Mark Forsyth
+5. Shoe Dog: A Memoir by the Creator of Nike - Phil Knight
 
 ### 2017
 
+1. The Wright Brothers - David McCullough
+2. Economix: How and Why Our Economy Works (and Doesn't Work) in Words and Pictures - Michael Goodwin
+3. The Rosie Project - Graeme Simsion
+4. The Doors of Perception and Heaven and Hell - Alodus Huxley
+5. The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory - Brain Greene
+6. Introduction to Graph Theory - Richard J. Trudeau (Incomplete)
+7. Logicomix: An epic search for truth - Apostolos Doxiadis
+8. Math Girls - Hiroshi Yuki
+9. The Omnivore's Dilemma: A Natural History of Four Meals - Michael Pollan
+10. Love Story - Eric Segal
+
+### 2016
+
+1. When Breathe becomes Air - Paul Kalanithi
+2. Skunk Works - Ben Rich
+3. Jaya: An Illustrated Retelling of the Mahabharata - Devdutt Pattanaik
+4. Gut: The Inside Story of Our Body's Most Underrated Organ - Giulia Enders

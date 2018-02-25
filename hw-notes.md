@@ -20,4 +20,4 @@ wifi dongle to your wifi. Follow the steps given **[here](https://raspberrypihq.
     - Had typos ahead of # in the /etc/network interfaces.
     - After running the 'sudo service networking reload', got an error saying couldn't 'ifup: no interface(s specified)'. Had to manually enter the interface mapping in /run/network/ifstate. **[Reference](https://unix.stackexchange.com/questions/50602/cant-ifdown-eth0-main-interface)**
 7. After all goes good. Capture a still image with raspi using the command - 'raspistill -o image.png'. A small preview window will open. Smile big ... might be your first raspi-cam installation. ;) After 5 secs an image will be dumped to **image.png** file.
-8. Start ssh dameon on the raspi - 'sudo service start ssh' 
+8. Start ssh dameon on the raspi - 'sudo service ssh start'.

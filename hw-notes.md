@@ -10,7 +10,7 @@ permalink: /hw-notes/
 2. The camera has two versions - NoIR and IR version. For general purpose use
 prefer the IR version. The difference between the two being the software IR filter
 applied between the two sensors.
-3. The camera v2 is based of the **[sony IMX219]()** sensor - checkout the product
+3. The camera v2 is based of the **[sony IMX219](https://www.sony-semicon.co.jp/products_en/new_pro/april_2014/imx219_e.html#Figure1)** sensor - checkout the product
 page for more details.
 4. Connect the camera to the raspi. Follow the instructions from the video below.
 **[raspi-connect-to-camera-v2](https://www.youtube.com/watch?v=T8T6S5eFpqE&)**

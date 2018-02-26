@@ -1,10 +1,10 @@
 ---
 layout: page
-title: hw-notes
+title: HW-notes
 permalink: /hw-notes/
 ---
 
-# Bring-up Raspberry Pi 2 (model B) and Raspberry Camera v2.
+# Bring-up Raspberry Pi 2 (model B) and Raspberry Camera v2 (02/25/18)
 
 1. Checkout the required parts at **[raspi](https://www.raspberrypi.org/)** website to kick-off.
 2. The camera has two versions - NoIR and IR version. For general purpose use
@@ -22,4 +22,4 @@ wifi dongle to your wifi. Follow the steps given **[here](https://raspberrypihq.
 7. After all goes good. Capture a still image with raspi using the command - 'raspistill -o image.png'. A small preview window will open. Smile big ... might be your first raspi-cam installation. ;) After 5 secs an image will be dumped to **image.png** file.
 8. Start ssh dameon on the raspi - 'sudo service ssh start'.
 9. pi ip - 'hostname -I'
-10. 
+10.

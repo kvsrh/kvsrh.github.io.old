@@ -17,3 +17,7 @@ It turned out that there were some special registers on the model 65 that were i
 3. The words Lord '**Voldermort**', '**Volley-ball**' and the tennis shot '**Volley**' have a common french root - **Volee**, meaning '**to fly**' . Voldermort therefore means '**flight of death**'. Neat.
 
 4. A lot of connotations of the word 'bad' seem to be derived from what was perceived as culturally bad. The word bad itself is derived from latin b(ae)ddel, meaning hermaphrodite. The word sinister was latin for left - a notion which was saw left-handed people as sinister.
+
+[03/31/2018]
+
+The etymologicon book was an absolutely great read. Will add update. Buff, Buck, California, et.al. 

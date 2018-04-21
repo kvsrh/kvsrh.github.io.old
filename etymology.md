@@ -20,4 +20,4 @@ It turned out that there were some special registers on the model 65 that were i
 
 [03/31/2018]
 
-The etymologicon book was an absolutely great read. Will add update. Buff, Buck, California, et.al. 
+The etymologicon book was an absolutely great read. Will add update. Buff, Buck, California, Juno Moneta, Punch, Bank, Bankrupt, Pupil.

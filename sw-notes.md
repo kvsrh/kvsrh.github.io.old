@@ -30,3 +30,19 @@ Installed the vim 8. And once the Valloric/YouCompleteMe plugin is installed,
 run the ./install.py under the bundle in .vim.
 
 Trying to get the color histogram equalization done in color space.
+
+#Exploring the new Vim.
+
+Installed the latest version.
+
+Vim 8.1
+
+Neovim vs Vim showdown.
+
+Gonna try neovim next week.
+
+Terminal emulator accelerators on GPUS. Wow.
+
+# Hough transform trip:
+
+Bresenham Alogrithm - 

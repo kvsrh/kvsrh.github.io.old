@@ -13,7 +13,9 @@ permalink: /reading-list/
 3. A Southern Music: The Karnatik Story - T.M. Krishna
 4. The Etymologican: A Circular Stroll Through the Hidden Connections of the English Language - Mark Forsyth
 5. Shoe Dog: A Memoir by the Creator of Nike - Phil Knight
-6. Park and Eleanor - Rainbow Rowell. 
+6. Park and Eleanor - Rainbow Rowell.
+7. Griftopia -
+
 
 ### 2017
 
